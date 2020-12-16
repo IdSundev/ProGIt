@@ -1,4 +1,4 @@
-# Python for Data Analysis, 2nd Edition
+# Pro Git
 
 Repositori ini berisi catatan dari ebook ProGit, 2nd Edition by Scott Chacon and Ben Straub.
 https://git-scm.com/book/en/v2
